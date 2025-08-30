@@ -17,3 +17,13 @@ Preprocess data and prepare it for clustering.
 Apply Fuzzy C-Means algorithm using scikit-fuzzy.  
 Assign final clusters based on highest membership values.  
 Visualize result
+
+**🛠 Installation**  
+Install the required libraries before running the project:    
+    pip install numpy pandas matplotlib scikit-learn scikit-fuzzy    
+Explanation of each:  
+**numpy** → for numerical operations  
+**pandas** → to read/load the dataset (CSV)  
+**matplotlib** → for plotting results  
+**scikit-learn** →evaluation, preprocessing  
+**scikit-fuzzy** → to perform Fuzzy C-Means clustering  
