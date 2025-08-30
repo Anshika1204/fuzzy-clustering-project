@@ -20,7 +20,7 @@ Visualize result
 
 **🛠 Installation**  
 Install the required libraries before running the project:    
-    pip install numpy pandas matplotlib scikit-learn scikit-fuzzy    
+    _pip install numpy pandas matplotlib scikit-learn scikit-fuzzy_    
 Explanation of each:  
 **numpy** → for numerical operations  
 **pandas** → to read/load the dataset (CSV)  
